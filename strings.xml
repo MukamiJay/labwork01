@@ -1,0 +1,15 @@
+<resources>
+
+    <string name="app_name">Login</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_signup">Signup</string>
+    <string name="title_activity_home">Homepage</string>
+    <string name="username">Username</string>
+    <string name="contact">Phone number</string>
+    <string name="fname">First Name</string>
+    <string name="lname">Last Name</string>
+    <string name="email">Email address</string>
+    <string name="password">My Password</string>
+    <string name="login">Login</string>
+    <string name="create">Create Account</string>
+</resources>
